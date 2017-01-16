@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{8185F5A7-45ED-00C6-DA53-3DAA1CF2068C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Farm",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
